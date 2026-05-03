@@ -26,7 +26,6 @@ const varun = {
   currentFocus: ["Building scalable webites", "Exploring AI integrations", "Open Source"],
   learning: ["System Design", "Cloud Architecture", "DevOps"],
   collaboration: "Always open to exciting projects & ideas!",
-  funFact: "I debug with console.log and I'm proud of it 😄",
   reachMe: "https://varun-portfolioos.vercel.app/"
 };
 ```
