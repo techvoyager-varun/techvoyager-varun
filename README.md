@@ -86,8 +86,6 @@ const varun = {
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvoyager-varun&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=techvoyager-varun&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
