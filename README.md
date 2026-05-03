@@ -81,7 +81,6 @@ const varun = {
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=techvoyager-varun&cc=0d1117&tc=6AD3F7&ic=6AD3F7&bc=0d1117" />
 <img width="49%" src="https://streak-stats.demolab.com?user=techvoyager-varun&theme=tokyonight&hide_border=true" />
 
 <br/>
