@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAli[...]" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Varun+Rawat+%F0%9[...]]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Varun+Rawat+%F0%9F%91%8B;Full+Stack+Developer;Competitive+Programmer;Building+things+that+solve+real+problems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,32 +16,51 @@
 
 ---
 
-##  About Me
+## About Me
 
 ```javascript
 const varun = {
   name: "Varun Rawat",
   role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  currentFocus: ["Building scalable webites", "Exploring AI integrations", "Open Source"],
+  education: "B.Tech CSE @ LNMIIT, Jaipur",
+  location: "Jaipur, India 🇮🇳",
+  currentFocus: ["Internship-ready projects", "System design", "Competitive programming"],
   learning: ["System Design", "Cloud Architecture", "DevOps"],
   collaboration: "Always open to exciting projects & ideas!",
   reachMe: "https://varun-portfolioos.vercel.app/"
 };
 ```
 
--  Currently working on **full-stack web applications** with modern technologies
--  Open to **collaborations** on innovative open-source projects
--  Fun fact: I turn coffee ☕ into clean, scalable code
--  Goal: Build products that are fast, accessible, and delightful to use
+- 🎓 Second-year CS undergrad at **LNM Institute of Information Technology (LNMIIT), Jaipur**
+- 👨‍🏫 Working as a **DSA Teaching Assistant** — teaching while I learn
+- 🏆 Competitive programmer on **Codeforces**
+- 🚀 Led **Team STC** in ISRO's Bharatiya Antariksh Hackathon 2026 (CoolCity — urban heat mitigation)
+- 💼 Actively looking for **Software Engineering internships**
+- ⚡ Fun fact: I turn coffee ☕ into clean, scalable code
 
 ---
 
-##  Languages & Tools
+## 🚀 Featured Projects
 
 <div align="center">
 
-###  Frontend
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[CodeCollab](https://github.com/techvoyager-varun)** | AI-powered collaborative code editor for real-time pair programming | React · Node.js · WebSockets |
+| **[ShopVerse](https://github.com/techvoyager-varun)** | Full-featured e-commerce platform with cart, auth, and order flow | React · Express · MongoDB |
+| **[LifeLine](https://github.com/techvoyager-varun)** | Emergency response coordination platform for faster dispatch and tracking | React · Node.js · MongoDB |
+
+</div>
+
+> Replace the placeholder links above with each project's actual repo URL.
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,19 +69,19 @@ const varun = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-###  Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-###  Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-###  DevOps & Tools
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -76,15 +95,13 @@ const varun = {
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://streak-stats.demolab.com?user=techvoyager-varun&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=techvoyager-varun&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
@@ -92,7 +109,7 @@ const varun = {
 
 ---
 
-##  GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -102,9 +119,7 @@ const varun = {
 
 ---
 
-##  Open Source Contributions
-
-I contribute to open-source projects. Here are some recent pull requests I've opened or contributed to:
+## 🤝 Open Source Contributions
 
 - [TEAMMATES #13849](https://github.com/TEAMMATES/teammates/pull/13849)
 - [TEAMMATES #13864](https://github.com/TEAMMATES/teammates/pull/13864)
@@ -114,7 +129,7 @@ I contribute to open-source projects. Here are some recent pull requests I've op
 
 ---
 
-##  Let's Connect & Build Something Amazing!
+## 📫 Let's Connect
 
 <div align="center">
 
