@@ -40,19 +40,21 @@ const varun = {
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Open Source Contributions
 
 <div align="center">
 
-| Project | Description | Tech Stack |
+| Repo | Contribution | Status |
 |---|---|---|
-| **[CodeCollab](https://github.com/techvoyager-varun)** | AI-powered collaborative code editor for real-time pair programming | React · Node.js · WebSockets |
-| **[ShopVerse](https://github.com/techvoyager-varun)** | Full-featured e-commerce platform with cart, auth, and order flow | React · Express · MongoDB |
-| **[LifeLine](https://github.com/techvoyager-varun)** | Emergency response coordination platform for faster dispatch and tracking | React · Node.js · MongoDB |
+| [**TEAMMATES**](https://github.com/TEAMMATES/teammates) | [PR #13849](https://github.com/TEAMMATES/teammates/pull/13849) | ✅ Merged |
+| [**TEAMMATES**](https://github.com/TEAMMATES/teammates) | [PR #13864](https://github.com/TEAMMATES/teammates/pull/13864) | ✅ Merged |
+| [**activist-org**](https://github.com/activist-org/activist) | [PR #2128](https://github.com/activist-org/activist/pull/2128) | ✅ Merged |
+| [**activist-org**](https://github.com/activist-org/activist) | [PR #2129](https://github.com/activist-org/activist/pull/2129) | ✅ Merged |
+| [**activist-org**](https://github.com/activist-org/activist) | [PR #2133](https://github.com/activist-org/activist/pull/2133) | ✅ Merged |
 
 </div>
 
-> Replace the placeholder links above with each project's actual repo URL.
+> Contributing to **TEAMMATES** (a widely-used peer feedback platform for education) and **activist-org** (an open-source activism organizing suite).
 
 ---
 
@@ -116,16 +118,6 @@ const varun = {
 <img src="https://github-profile-trophy.vercel.app/?username=techvoyager-varun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&cache_seconds=1800" width="100%"/>
 
 </div>
-
----
-
-## 🤝 Open Source Contributions
-
-- [TEAMMATES #13849](https://github.com/TEAMMATES/teammates/pull/13849)
-- [TEAMMATES #13864](https://github.com/TEAMMATES/teammates/pull/13864)
-- [activist-org #2128](https://github.com/activist-org/activist/pull/2128)
-- [activist-org #2129](https://github.com/activist-org/activist/pull/2129)
-- [activist-org #2133](https://github.com/activist-org/activist/pull/2133)
 
 ---
 
