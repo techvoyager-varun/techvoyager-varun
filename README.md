@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Tech%20Explorer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAli[...]" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Varun+Rawat+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8;Open+Source+%7C+Clean+Code+%7C+Great+UX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Varun+Rawat+%F0%9[...]]
 
 <br/>
 
@@ -99,6 +99,18 @@ const varun = {
 <img src="https://github-profile-trophy.vercel.app/?username=techvoyager-varun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&cache_seconds=1800" width="100%"/>
 
 </div>
+
+---
+
+##  Open Source Contributions
+
+I contribute to open-source projects. Here are some recent pull requests I've opened or contributed to:
+
+- [TEAMMATES #13849](https://github.com/TEAMMATES/teammates/pull/13849)
+- [TEAMMATES #13864](https://github.com/TEAMMATES/teammates/pull/13864)
+- [activist-org #2128](https://github.com/activist-org/activist/pull/2128)
+- [activist-org #2129](https://github.com/activist-org/activist/pull/2129)
+- [activist-org #2133](https://github.com/activist-org/activist/pull/2133)
 
 ---
 
