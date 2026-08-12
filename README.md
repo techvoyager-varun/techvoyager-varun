@@ -31,10 +31,7 @@ const varun = {
 };
 ```
 
-- 🎓 CS undergrad at **LNM Institute of Information Technology (LNMIIT), Jaipur**
-- 👨‍🏫 Working as a **DSA Teaching Assistant** — teaching while I learn
 - 🏆 Competitive programmer on **Codeforces**
-- 🚀 Led **Team STC** in ISRO's Bharatiya Antariksh Hackathon 2026 (CoolCity — urban heat mitigation)
 - 💼 Actively looking for **Software Engineering internships**
 - ⚡ Fun fact: I turn coffee ☕ into clean, scalable code
 
