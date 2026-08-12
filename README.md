@@ -54,7 +54,7 @@ const varun = {
 
 </div>
 
-> Contributing to **TEAMMATES** (a widely-used peer feedback platform for education) and **activist-org** (an open-source activism organizing suite).
+> Contributing
 
 ---
 
