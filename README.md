@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="banner"/>
+<img src="./banner.svg" width="100%" alt="banner"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <!-- ================= SKILL TREE ================= -->
 <div align="center">
-<img src="./assets/stats-panel.svg" width="100%" alt="skill tree"/>
+<img src="./stats-panel.svg" width="100%" alt="skill tree"/>
 </div>
 
 <br/>
@@ -81,15 +81,15 @@
 
 ### 📡 Open a Channel
 
-<a href="https://github.com/techvoyager-varun"><img src="./assets/btn-github.svg"/></a>
-<a href="https://www.linkedin.com/in/varun-rawat072"><img src="./assets/btn-linkedin.svg"/></a>
-<a href="https://x.com/VarunR25117"><img src="./assets/btn-x.svg"/></a>
-<a href="mailto:varunrawat5758@gmail.com"><img src="./assets/btn-mail.svg"/></a>
-<a href="https://codeforces.com/profile/techvoyager"><img src="./assets/btn-codeforces.svg"/></a>
-<a href="https://varun-portfolioos.vercel.app/"><img src="./assets/btn-portfolio.svg"/></a>
+<a href="https://github.com/techvoyager-varun"><img src="./btn-github.svg"/></a>
+<a href="https://www.linkedin.com/in/varun-rawat072"><img src="./btn-linkedin.svg"/></a>
+<a href="https://x.com/VarunR25117"><img src="./btn-x.svg"/></a>
+<a href="mailto:varunrawat5758@gmail.com"><img src="./btn-mail.svg"/></a>
+<a href="https://codeforces.com/profile/techvoyager"><img src="./btn-codeforces.svg"/></a>
+<a href="https://varun-portfolioos.vercel.app/"><img src="./btn-portfolio.svg"/></a>
 
 </div>
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="footer"/>
+<img src="./footer.svg" width="100%" alt="footer"/>
