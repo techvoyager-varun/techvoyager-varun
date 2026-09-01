@@ -1,147 +1,134 @@
 <div align="center">
 
-<!-- Animated wave header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Hey,%20I'm%20Varun%20Rawat%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20TechVoyager%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=17"/>
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=B.Tech+CSE+%40+LNMIIT%2C+Jaipur+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+on+Codeforces+%F0%9F%8F%86;Actively+seeking+SWE+Internships+%F0%9F%9A%80;Turning+coffee+%E2%98%95+into+clean+code" />
-</a>
+<!-- CUSTOM animated banner — self-hosted SVG, not a generic badge generator -->
+<img src="./assets/banner.svg" width="100%" alt="Varun Rawat — TechVoyager"/>
 
 <br/>
 
-<!-- Live stat badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=techvoyager-varun&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/techvoyager-varun?label=Followers&style=for-the-badge&color=8b5cf6" />
-</p>
-
-<!-- Social row -->
-<p>
-  <a href="https://www.linkedin.com/in/varun-rawat072"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/VarunR25117"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:varunrawat5758@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://varun-portfolioos.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/techvoyager"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=techvoyager-varun&label=PROFILE+VIEWS&color=a78bfa&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/techvoyager-varun?label=FOLLOWERS&style=for-the-badge&color=f472b6" />
+<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 
 </div>
 
-<!-- Animated divider -->
-<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
+<br/>
 
-## 🧑‍💻 About Me
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-
-```js
-const varun = {
-  name: "Varun Rawat",
-  alias: "TechVoyager",
-  role: "Full Stack Developer",
-  education: "B.Tech CSE @ LNMIIT, Jaipur",
-  location: "Jaipur, India 🇮🇳",
-  currentFocus: ["Open Source", "System Design", "Competitive Programming"],
-  learning: ["System Design", "Cloud Architecture", "DevOps"],
-  status: "Actively looking for SWE internships 💼",
-  funFact: "I turn coffee ☕ into clean, scalable code"
-};
-```
-
-- 🏆 Competitive programmer on **[Codeforces](https://codeforces.com/profile/techvoyager)**
-- 💼 Actively looking for **Software Engineering internships**
-- 🌱 Currently leveling up in **System Design, Cloud & DevOps**
-- ⚡ Fun fact: I turn coffee ☕ into clean, scalable code
-
-<br clear="right"/>
-
-## 🤝 Open Source Contributions
-
-| Repo | Contribution | Status |
-|---|---|---|
-| [**TEAMMATES**](https://github.com/TEAMMATES/teammates) | [PR #13849](https://github.com/TEAMMATES/teammates/pull/13849) | ✅ Merged |
-| [**TEAMMATES**](https://github.com/TEAMMATES/teammates) | [PR #13864](https://github.com/TEAMMATES/teammates/pull/13864) | ✅ Merged |
-| [**activist-org**](https://github.com/activist-org/activist) | [PR #2128](https://github.com/activist-org/activist/pull/2128) | ✅ Merged |
-| [**activist-org**](https://github.com/activist-org/activist) | [PR #2129](https://github.com/activist-org/activist/pull/2129) | ✅ Merged |
-| [**activist-org**](https://github.com/activist-org/activist) | [PR #2133](https://github.com/activist-org/activist/pull/2133) | ✅ Merged |
-
----
-
-## 🛠️ Tech Stack
-
+<!-- ============ VIDEO INTRO ============ -->
 <div align="center">
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=8"/>
+### 🎬 A quick hello, in motion
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postman&perline=8"/>
+<!--
+  Real video, not a gif — drop your own .mp4 here (see setup notes at the bottom for how).
+  Until you add one, this line is what visitors will see, so replace the src below.
+-->
+<video src="https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-ID" controls muted width="640">
+  Your browser can't play this video — but GitHub visitors' will, once it's linked correctly.
+</video>
 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=8"/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,netlify&perline=8"/>
+<sub>👆 15–30 sec: "hey, I'm Varun" + a 5-second screen-recording of your favorite project running. This is the single biggest thing that makes a profile feel like *you* instead of a template.</sub>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
+<br/>
 
-## 📊 GitHub Analytics
+<!-- ============ TERMINAL + ABOUT (side by side) ============ -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+<img src="./assets/terminal.svg" width="100%" alt="terminal intro"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=techvoyager-varun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=8b5cf6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvoyager-varun&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" />
+</td>
+<td width="50%" valign="top">
+
+### 🧭 The Journey So Far
+
+I build things for the web and break them for fun on Codeforces. Currently a CS undergrad at **LNMIIT, Jaipur**, chasing clean architecture, fast algorithms, and my next internship.
+
+**Right now:**
+- 🎯 Solving my way up the Codeforces ladder
+- 🧱 Studying System Design & Cloud Architecture
+- 🤝 Shipping merged PRs to real open-source projects
+- 💼 **Open to Software Engineering internships** — [let's talk](mailto:varunrawat5758@gmail.com)
+
+**Off-screen:** turning coffee ☕ into commits, and losing more chess games than I'll admit.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=techvoyager-varun&theme=tokyonight&hide_border=true&background=00000000" />
+<!-- ============ OPEN SOURCE ============ -->
+### 🤝 Open Source, Not Just Talk
+
+<table>
+<tr><th align="left">Project</th><th align="left">Contribution</th><th align="left">Status</th></tr>
+<tr><td><a href="https://github.com/TEAMMATES/teammates"><b>TEAMMATES</b></a></td><td><a href="https://github.com/TEAMMATES/teammates/pull/13849">PR #13849</a></td><td>✅ Merged</td></tr>
+<tr><td><a href="https://github.com/TEAMMATES/teammates"><b>TEAMMATES</b></a></td><td><a href="https://github.com/TEAMMATES/teammates/pull/13864">PR #13864</a></td><td>✅ Merged</td></tr>
+<tr><td><a href="https://github.com/activist-org/activist"><b>activist-org</b></a></td><td><a href="https://github.com/activist-org/activist/pull/2128">PR #2128</a></td><td>✅ Merged</td></tr>
+<tr><td><a href="https://github.com/activist-org/activist"><b>activist-org</b></a></td><td><a href="https://github.com/activist-org/activist/pull/2129">PR #2129</a></td><td>✅ Merged</td></tr>
+<tr><td><a href="https://github.com/activist-org/activist"><b>activist-org</b></a></td><td><a href="https://github.com/activist-org/activist/pull/2133">PR #2133</a></td><td>✅ Merged</td></tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techvoyager-varun&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
+<!-- ============ TECH STACK ============ -->
+### 🛠️ Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,mongodb,mysql,postgres,redis,git,github,docker,linux,vscode,vercel,postman&perline=10"/>
 
 </div>
 
-## 🏅 Trophy Case
+<br/>
+
+<!-- ============ LIVE STATS ============ -->
+### 📊 The Numbers
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=techvoyager-varun&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7&cache_seconds=1800" />
-</div>
 
-## 🐍 Contribution Snake
+<img src="https://github-readme-stats.vercel.app/api?username=techvoyager-varun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=f472b6&icon_color=a78bfa&text_color=cdd6f4&bg_color=00000000" height="165"/>
+<img src="https://streak-stats.demolab.com?user=techvoyager-varun&theme=tokyonight&hide_border=true&background=00000000&ring=a78bfa&fire=f472b6&currStreakLabel=cdd6f4" height="165"/>
 
-<div align="center">
+<br/>
+
+<!-- 3D contribution calendar — far less common than the flat graph everyone uses -->
 <img src="https://raw.githubusercontent.com/techvoyager-varun/techvoyager-varun/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
-> ⚙️ One-time setup needed — see instructions below to activate this animation.
-
-<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
-
-## 📫 Let's Connect
-
-<div align="center">
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<a href="https://github.com/techvoyager-varun"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/varun-rawat072"><img src="https://img.shields.io/badge/LinkedIn-Varun_Rawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/VarunR25117"><img src="https://img.shields.io/badge/Twitter-@VarunR25117-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:varunrawat5758@gmail.com"><img src="https://img.shields.io/badge/Gmail-varunrawat5758-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://varun-portfolioos.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<sub>⚙️ The animation above needs a one-time GitHub Action — see setup notes below.</sub>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+### 🏆 Trophy Case
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=techvoyager-varun&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<br/>
+
+<!-- ============ CONNECT ============ -->
+<div align="center">
+
+### 📡 Reach Me
+
+<a href="https://www.linkedin.com/in/varun-rawat072"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/VarunR25117"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:varunrawat5758@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://varun-portfolioos.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/techvoyager"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer"/>
 
 </div>
