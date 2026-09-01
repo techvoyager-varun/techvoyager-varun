@@ -1,45 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18" />
+<!-- Animated wave header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Hey,%20I'm%20Varun%20Rawat%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20TechVoyager%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=17"/>
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=B.Tech+CSE+%40+LNMIIT%2C+Jaipur+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+on+Codeforces+%F0%9F%8F%86;Actively+seeking+SWE+Internships+%F0%9F%9A%80;Turning+coffee+%E2%98%95+into+clean+code" />
+</a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Varun+Rawat+%F0%9F%91%8B;Full+Stack+Developer;Competitive+Programmer;Building+things+that+solve+real+problems)](https://git.io/typing-svg)
+<!-- Live stat badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=techvoyager-varun&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/techvoyager-varun?label=Followers&style=for-the-badge&color=8b5cf6" />
+</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=techvoyager-varun&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/techvoyager-varun?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
+<!-- Social row -->
+<p>
+  <a href="https://www.linkedin.com/in/varun-rawat072"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/VarunR25117"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:varunrawat5758@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://varun-portfolioos.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/techvoyager"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+</p>
 
 </div>
 
----
+<!-- Animated divider -->
+<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
 
-## About Me
+## 🧑‍💻 About Me
 
-```javascript
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
+```js
 const varun = {
   name: "Varun Rawat",
+  alias: "TechVoyager",
   role: "Full Stack Developer",
   education: "B.Tech CSE @ LNMIIT, Jaipur",
   location: "Jaipur, India 🇮🇳",
-  currentFocus: ["projects", "System design", "Competitive programming"],
+  currentFocus: ["Open Source", "System Design", "Competitive Programming"],
   learning: ["System Design", "Cloud Architecture", "DevOps"],
-  collaboration: "Always open to exciting projects & ideas!",
-  reachMe: "https://varun-portfolioos.vercel.app/"
+  status: "Actively looking for SWE internships 💼",
+  funFact: "I turn coffee ☕ into clean, scalable code"
 };
 ```
 
-- 🏆 Competitive programmer on **Codeforces**
+- 🏆 Competitive programmer on **[Codeforces](https://codeforces.com/profile/techvoyager)**
 - 💼 Actively looking for **Software Engineering internships**
+- 🌱 Currently leveling up in **System Design, Cloud & DevOps**
 - ⚡ Fun fact: I turn coffee ☕ into clean, scalable code
 
----
+<br clear="right"/>
 
 ## 🤝 Open Source Contributions
-
-<div align="center">
 
 | Repo | Contribution | Status |
 |---|---|---|
@@ -49,74 +65,64 @@ const varun = {
 | [**activist-org**](https://github.com/activist-org/activist) | [PR #2129](https://github.com/activist-org/activist/pull/2129) | ✅ Merged |
 | [**activist-org**](https://github.com/activist-org/activist) | [PR #2133](https://github.com/activist-org/activist/pull/2133) | ✅ Merged |
 
-</div>
-
-> Contributing
-
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=8"/>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postman&perline=8"/>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=8"/>
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,netlify&perline=8"/>
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=techvoyager-varun&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=techvoyager-varun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=A78BFA&icon_color=8b5cf6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvoyager-varun&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techvoyager-varun&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=techvoyager-varun&theme=tokyonight&hide_border=true&background=00000000" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techvoyager-varun&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
+## 🏅 Trophy Case
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=techvoyager-varun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&cache_seconds=1800" width="100%"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=techvoyager-varun&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7&cache_seconds=1800" />
 </div>
 
----
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/techvoyager-varun/techvoyager-varun/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> ⚙️ One-time setup needed — see instructions below to activate this animation.
+
+<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
 
 ## 📫 Let's Connect
 
@@ -124,16 +130,18 @@ const varun = {
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-<br/>
+<a href="https://github.com/techvoyager-varun"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/varun-rawat072"><img src="https://img.shields.io/badge/LinkedIn-Varun_Rawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/VarunR25117"><img src="https://img.shields.io/badge/Twitter-@VarunR25117-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:varunrawat5758@gmail.com"><img src="https://img.shields.io/badge/Gmail-varunrawat5758-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://varun-portfolioos.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-techvoyager--varun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techvoyager-varun)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_Rawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-rawat072)
-[![Twitter](https://img.shields.io/badge/Twitter-@VarunR25117-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/VarunR25117)
-[![Gmail](https://img.shields.io/badge/Gmail-varunrawat5758@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunrawat5758@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varun-portfolioos.vercel.app/)
+<br/><br/>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
