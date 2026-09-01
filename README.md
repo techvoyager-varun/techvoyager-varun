@@ -1,134 +1,139 @@
 <div align="center">
 
-<!-- CUSTOM animated banner — self-hosted SVG, not a generic badge generator -->
-<img src="./assets/banner.svg" width="100%" alt="Varun Rawat — TechVoyager"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varun%20Rawat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=techvoyager-varun&label=PROFILE+VIEWS&color=a78bfa&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/techvoyager-varun?label=FOLLOWERS&style=for-the-badge&color=f472b6" />
-<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Varun+Rawat+%F0%9F%91%8B;Full+Stack+Developer;Competitive+Programmer;Building+things+that+solve+real+problems)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=techvoyager-varun&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/techvoyager-varun?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ============ VIDEO INTRO ============ -->
-<div align="center">
+## About Me
 
-### 🎬 A quick hello, in motion
+```javascript
+const varun = {
+  name: "Varun Rawat",
+  role: "Full Stack Developer",
+  education: "B.Tech CSE @ LNMIIT, Jaipur",
+  location: "Jaipur, India 🇮🇳",
+  currentFocus: ["projects", "System design", "Competitive programming"],
+  learning: ["System Design", "Cloud Architecture", "DevOps"],
+  collaboration: "Always open to exciting projects & ideas!",
+  reachMe: "https://varun-portfolioos.vercel.app/"
+};
+```
 
-<!--
-  Real video, not a gif — drop your own .mp4 here (see setup notes at the bottom for how).
-  Until you add one, this line is what visitors will see, so replace the src below.
--->
-<video src="https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-ID" controls muted width="640">
-  Your browser can't play this video — but GitHub visitors' will, once it's linked correctly.
-</video>
+- 🏆 Competitive programmer on **Codeforces**
+- 💼 Actively looking for **Software Engineering internships**
+- ⚡ Fun fact: I turn coffee ☕ into clean, scalable code
 
-<sub>👆 15–30 sec: "hey, I'm Varun" + a 5-second screen-recording of your favorite project running. This is the single biggest thing that makes a profile feel like *you* instead of a template.</sub>
+---
 
-</div>
-
-<br/>
-
-<!-- ============ TERMINAL + ABOUT (side by side) ============ -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/terminal.svg" width="100%" alt="terminal intro"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 The Journey So Far
-
-I build things for the web and break them for fun on Codeforces. Currently a CS undergrad at **LNMIIT, Jaipur**, chasing clean architecture, fast algorithms, and my next internship.
-
-**Right now:**
-- 🎯 Solving my way up the Codeforces ladder
-- 🧱 Studying System Design & Cloud Architecture
-- 🤝 Shipping merged PRs to real open-source projects
-- 💼 **Open to Software Engineering internships** — [let's talk](mailto:varunrawat5758@gmail.com)
-
-**Off-screen:** turning coffee ☕ into commits, and losing more chess games than I'll admit.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ============ OPEN SOURCE ============ -->
-### 🤝 Open Source, Not Just Talk
-
-<table>
-<tr><th align="left">Project</th><th align="left">Contribution</th><th align="left">Status</th></tr>
-<tr><td><a href="https://github.com/TEAMMATES/teammates"><b>TEAMMATES</b></a></td><td><a href="https://github.com/TEAMMATES/teammates/pull/13849">PR #13849</a></td><td>✅ Merged</td></tr>
-<tr><td><a href="https://github.com/TEAMMATES/teammates"><b>TEAMMATES</b></a></td><td><a href="https://github.com/TEAMMATES/teammates/pull/13864">PR #13864</a></td><td>✅ Merged</td></tr>
-<tr><td><a href="https://github.com/activist-org/activist"><b>activist-org</b></a></td><td><a href="https://github.com/activist-org/activist/pull/2128">PR #2128</a></td><td>✅ Merged</td></tr>
-<tr><td><a href="https://github.com/activist-org/activist"><b>activist-org</b></a></td><td><a href="https://github.com/activist-org/activist/pull/2129">PR #2129</a></td><td>✅ Merged</td></tr>
-<tr><td><a href="https://github.com/activist-org/activist"><b>activist-org</b></a></td><td><a href="https://github.com/activist-org/activist/pull/2133">PR #2133</a></td><td>✅ Merged</td></tr>
-</table>
-
-<br/>
-
-<!-- ============ TECH STACK ============ -->
-### 🛠️ Arsenal
+## 🤝 Open Source Contributions
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,mongodb,mysql,postgres,redis,git,github,docker,linux,vscode,vercel,postman&perline=10"/>
+| Repo | Contribution | Status |
+|---|---|---|
+| [**TEAMMATES**](https://github.com/TEAMMATES/teammates) | [PR #13849](https://github.com/TEAMMATES/teammates/pull/13849) | ✅ Merged |
+| [**TEAMMATES**](https://github.com/TEAMMATES/teammates) | [PR #13864](https://github.com/TEAMMATES/teammates/pull/13864) | ✅ Merged |
+| [**activist-org**](https://github.com/activist-org/activist) | [PR #2128](https://github.com/activist-org/activist/pull/2128) | ✅ Merged |
+| [**activist-org**](https://github.com/activist-org/activist) | [PR #2129](https://github.com/activist-org/activist/pull/2129) | ✅ Merged |
+| [**activist-org**](https://github.com/activist-org/activist) | [PR #2133](https://github.com/activist-org/activist/pull/2133) | ✅ Merged |
 
 </div>
 
-<br/>
+> Contributing
 
-<!-- ============ LIVE STATS ============ -->
-### 📊 The Numbers
+---
+
+## 🛠️ Languages & Tools
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=techvoyager-varun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=f472b6&icon_color=a78bfa&text_color=cdd6f4&bg_color=00000000" height="165"/>
-<img src="https://streak-stats.demolab.com?user=techvoyager-varun&theme=tokyonight&hide_border=true&background=00000000&ring=a78bfa&fire=f472b6&currStreakLabel=cdd6f4" height="165"/>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br/>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- 3D contribution calendar — far less common than the flat graph everyone uses -->
-<img src="https://raw.githubusercontent.com/techvoyager-varun/techvoyager-varun/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
-<sub>⚙️ The animation above needs a one-time GitHub Action — see setup notes below.</sub>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://streak-stats.demolab.com?user=techvoyager-varun&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-### 🏆 Trophy Case
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techvoyager-varun&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=techvoyager-varun&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=techvoyager-varun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&cache_seconds=1800" width="100%"/>
+
 </div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 <br/>
 
-<!-- ============ CONNECT ============ -->
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-techvoyager--varun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techvoyager-varun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_Rawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-rawat072)
+[![Twitter](https://img.shields.io/badge/Twitter-@VarunR25117-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/VarunR25117)
+[![Gmail](https://img.shields.io/badge/Gmail-varunrawat5758@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunrawat5758@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varun-portfolioos.vercel.app/)
 
-### 📡 Reach Me
+<br/>
 
-<a href="https://www.linkedin.com/in/varun-rawat072"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/VarunR25117"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:varunrawat5758@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://varun-portfolioos.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/techvoyager"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-
-<br/><br/>
-
-<i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
