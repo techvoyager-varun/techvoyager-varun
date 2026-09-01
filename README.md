@@ -24,7 +24,7 @@ const varun = {
   role: "Full Stack Developer",
   education: "B.Tech CSE @ LNMIIT, Jaipur",
   location: "Jaipur, India 🇮🇳",
-  currentFocus: ["Internship-ready projects", "System design", "Competitive programming"],
+  currentFocus: ["projects", "System design", "Competitive programming"],
   learning: ["System Design", "Cloud Architecture", "DevOps"],
   collaboration: "Always open to exciting projects & ideas!",
   reachMe: "https://varun-portfolioos.vercel.app/"
