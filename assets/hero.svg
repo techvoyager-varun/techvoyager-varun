@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
+<title id="title">Varun Rawat — Full stack, AI/ML and open source</title><desc id="desc">Custom portfolio artwork for Varun Rawat.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1428"/><stop offset="1" stop-color="#131b36"/></linearGradient><linearGradient id="accent"><stop stop-color="#57e4cd"/><stop offset="1" stop-color="#9b8cff"/></linearGradient><radialGradient id="planet"><stop stop-color="#31496d"/><stop offset="1" stop-color="#142037"/></radialGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7e9cca" stroke-opacity=".06"/></pattern></defs>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}.muted{fill:#a9bad3}.bright{fill:#f0f6ff}.line{stroke:#57e4cd;fill:none} @media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+<rect x="1" y="1" width="998" height="338" rx="24" fill="url(#bg)" stroke="#283651"/><rect x="1" y="1" width="998" height="338" rx="24" fill="url(#grid)"/>
+<circle cx="620" cy="25" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="691" cy="68" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="762" cy="111" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="833" cy="154" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="904" cy="197" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="630" cy="240" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="701" cy="283" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="772" cy="61" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="843" cy="104" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="914" cy="147" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="640" cy="190" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="711" cy="233" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="782" cy="276" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="853" cy="54" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="924" cy="97" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="650" cy="140" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="721" cy="183" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="792" cy="226" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="863" cy="269" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="934" cy="47" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="660" cy="90" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="731" cy="133" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="802" cy="176" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="873" cy="219" r="1.4" fill="#bfcee8" opacity=".5"/><circle cx="944" cy="262" r="1.0" fill="#bfcee8" opacity=".5"/><circle cx="670" cy="40" r="1.4" fill="#bfcee8" opacity=".5"/>
+<text x="48" y="49" fill="#57e4cd" font-size="12" letter-spacing="3" class="mono">TECHVOYAGER / DEVELOPER LOG</text>
+<text x="48" y="115" font-size="58" font-weight="750" class="bright">Varun Rawat<tspan fill="#57e4cd">.</tspan></text>
+<text x="50" y="154" font-size="20" class="muted">Building thoughtful software.</text>
+<text x="50" y="184" font-size="20" class="muted">Exploring what comes next.</text>
+<rect x="48" y="219" width="370" height="35" rx="17" fill="#162c3b" stroke="#2a5360"/>
+<circle cx="67" cy="237" r="4" fill="#57e4cd"/>
+<text x="82" y="242" font-size="12" fill="#b9e7e0" letter-spacing="1">FULL STACK · AI / ML · OPEN SOURCE</text>
+<text x="50" y="291" font-size="12" class="muted mono">LNMIIT, Jaipur  /  India  /  Always building</text>
+<g transform="translate(785 163)">
+<ellipse rx="145" ry="91" fill="none" stroke="#3e537a" stroke-width="1" transform="rotate(-28)"/>
+<ellipse rx="126" ry="76" fill="none" stroke="#42547a" stroke-width="1" transform="rotate(28)"/>
+<circle r="66" fill="url(#planet)" stroke="#587499"/>
+<path d="M-60-20Q0 5 60-20M-65 10Q0 40 65 10M-45-48Q-20 0-45 48M35-55Q65 0 35 55" stroke="#718aac" opacity=".35" fill="none"/>
+<text y="11" text-anchor="middle" font-size="32" font-weight="700" fill="#d4fff5" class="mono">&lt;/&gt;</text>
+<circle cx="129" cy="-42" r="6" fill="#57e4cd"/>
+<g class="motion"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/><circle cx="129" cy="-42" r="7" fill="#57e4cd"/><circle cx="-110" cy="25" r="5" fill="#ad9fff"/></g>
+</g>
+<path d="M48 319H952" stroke="url(#accent)" stroke-width="2"/>
+</svg>

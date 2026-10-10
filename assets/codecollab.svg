@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="245" viewBox="0 0 1000 245" role="img" aria-labelledby="title desc">
+<title id="title">CodeCollab: A shared workspace for code, voice, whiteboards and AI-assisted development. Stack: Next.js · Socket.IO · WebRTC · pgvector</title><desc id="desc">Custom portfolio artwork for Varun Rawat.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1428"/><stop offset="1" stop-color="#131b36"/></linearGradient><linearGradient id="accent"><stop stop-color="#57e4cd"/><stop offset="1" stop-color="#9b8cff"/></linearGradient><radialGradient id="planet"><stop stop-color="#31496d"/><stop offset="1" stop-color="#142037"/></radialGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7e9cca" stroke-opacity=".06"/></pattern></defs>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}.muted{fill:#a9bad3}.bright{fill:#f0f6ff}.line{stroke:#57e4cd;fill:none} @media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+<rect x="1" y="1" width="998" height="243" rx="24" fill="url(#bg)" stroke="#283651"/><rect x="1" y="1" width="998" height="243" rx="24" fill="url(#grid)"/>
+<rect x="32" y="33" width="4" height="173" rx="2" fill="#57e4cd"/>
+<text x="54" y="52" font-size="11" letter-spacing="2" fill="#57e4cd" class="mono">REALTIME / DEVELOPER TOOLS</text>
+<text x="54" y="94" font-size="32" font-weight="700" class="bright">CodeCollab</text>
+<text x="54" y="131" font-size="17" class="muted">A shared workspace for code, voice,</text><text x="54" y="156" font-size="17" class="muted">whiteboards and AI-assisted development.</text>
+<text x="54" y="196" font-size="12" fill="#57e4cd" class="mono">Next.js · Socket.IO · WebRTC · pgvector</text>
+<text x="953" y="44" text-anchor="end" font-size="20" fill="#57e4cd">↗</text>
+<g fill="none" stroke="#57e4cd" stroke-width="2" stroke-linejoin="round" opacity=".7"><rect x="696" y="53" width="230" height="145" rx="12"/><path d="M696 80H926M721 110L705 125L721 140M900 110L916 125L900 140M794 110L777 140"/><path d="M742 166H820M850 166H890"/></g>
+<path d="M690 220H930" stroke="#57e4cd" opacity=".2"/>
+<g class="motion"><circle cy="220" r="3" fill="#57e4cd"><animate attributeName="cx" values="690;930;690" dur="7s" repeatCount="indefinite"/></circle></g></svg>
