@@ -1,6 +1,10 @@
 # Profile maintenance
 
-The profile README uses original SVG assets stored in `assets/`. The hero has a slow orbital animation and project cards have subtle moving indicators. Each asset has readable static artwork; the motion layers are hidden when the browser honors `prefers-reduced-motion` for SVG images. GitHub image caching can delay visible updates.
+The profile README uses original editorial SVG assets stored in `assets/`: warm paper, vermilion, charcoal and ochre; oversized typography; square project spreads. Only Filmory and CodeCollab are featured. The hero has a slowly moving dotted rosette, Filmory has a moving film-reel ring, and CodeCollab has a blinking cursor. Static artwork remains visible with reduced motion. GitHub image caching can delay updates.
+
+Regenerate curated artwork with `python scripts/build_artwork.py`, then refresh public data with `python scripts/refresh_profile.py`.
+
+Design research: [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme), [Creative Profile README](https://github.com/coderjojo/creative-profile-readme), [Caneco](https://github.com/caneco) and [Pouya Saadeghi](https://github.com/saadeghi/saadeghi). These informed the emphasis on individual identity and readable hierarchy; no third-party artwork or template was copied. Project artwork is illustrative, not a screenshot of the applications.
 
 `scripts/refresh_profile.py` uses Python's standard library to collect public GitHub data. It updates four metrics and the six most recently updated merged pull requests authored by techvoyager-varun in other owners' public repositories. Stars count original public repositories only. It does not read or publish private repositories, private contribution counts or credentials.
 

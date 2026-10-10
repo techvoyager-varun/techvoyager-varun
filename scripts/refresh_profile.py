@@ -51,9 +51,8 @@ def collect():
 def frame(body, height, title):
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="{height}" viewBox="0 0 1000 {height}" role="img" aria-labelledby="title">
 <title id="title">{escape(title)}</title>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1428"/><stop offset="1" stop-color="#131b36"/></linearGradient></defs>
-<rect x="1" y="1" width="998" height="{height - 2}" rx="20" fill="url(#bg)" stroke="#283651"/>
-<g font-family="Segoe UI,Arial,sans-serif">{body}</g></svg>'''
+<rect width="1000" height="{height}" fill="#f2ede3"/>
+<g font-family="Arial,Helvetica,sans-serif">{body}</g></svg>'''
 
 
 def render(user, repos, prs, updated):
@@ -63,25 +62,25 @@ def render(user, repos, prs, updated):
         (user["followers"], "GITHUB FOLLOWERS"),
         (prs["total_count"], "MERGED EXTERNAL PRs"),
     ]
-    body = '<text x="36" y="35" fill="#a9bad3" font-size="11" letter-spacing="2">PUBLIC GITHUB SNAPSHOT</text>'
-    colors = ["#57e4cd", "#79bdff", "#b7a0ff", "#ffc37b"]
-    for i, ((value, label), color) in enumerate(zip(values, colors)):
-        x = 36 + i * 245
-        body += f'<text x="{x}" y="98" font-size="45" font-weight="700" fill="{color}">{value:,}</text>'
-        body += f'<text x="{x}" y="129" font-size="10" letter-spacing=".8" fill="#a9bad3">{label}</text>'
-        if i < 3:
-            body += f'<path d="M{x + 214} 58V138" stroke="#283651"/>'
-    body += f'<text x="36" y="173" font-size="11" fill="#a9bad3">Updated {escape(updated)} · Public data only · Fork stars excluded</text>'
-    files = {"assets/metrics.svg": frame(body, 198, "Public GitHub stats: " + ", ".join(f"{v} {label.lower()}" for v, label in values))}
+    body = ''
+    for i, (value, label) in enumerate(values):
+        x = 40 + (i % 2) * 480
+        y = 98 + (i // 2) * 165
+        body += f'<text x="{x}" y="{y}" font-size="84" font-weight="900" fill="#e6492d" letter-spacing="-3">{value:,}</text>'
+        body += f'<text x="{x}" y="{y + 37}" font-size="18" fill="#23211e">{label}</text>'
+    body += '<path d="M40 156H960M40 321H960" stroke="#b3aa9a"/>'
+    body += f'<text x="40" y="358" font-size="16" fill="#524d45">Updated {escape(updated)} · Public data · Fork stars excluded</text>'
+    files = {"assets/metrics.svg": frame(body, 387, "Public GitHub stats: " + ", ".join(f"{v} {label.lower()}" for v, label in values))}
     links = []
     for i, pr in enumerate(prs["items"]):
         repo = pr["repository_url"].removeprefix(f"{API}/repos/")
         title = pr["title"]
-        lines = textwrap.wrap(title, width=86, max_lines=2, placeholder="…")
-        body = f'<circle cx="35" cy="31" r="5" fill="#b7a0ff"/><text x="51" y="36" font-size="12" fill="#b7a0ff">{escape(repo)} · #{pr["number"]}</text>'
-        body += '<rect x="865" y="17" width="105" height="27" rx="13" fill="#293049"/><text x="917" y="35" text-anchor="middle" font-size="11" fill="#d5c9ff">✓ MERGED</text>'
+        lines = textwrap.wrap(title, width=77, max_lines=2, placeholder="…")
+        body = f'<text x="40" y="33" font-size="18" fill="#e6492d" font-weight="700">{escape(repo)} / #{pr["number"]}</text>'
+        body += '<text x="960" y="33" text-anchor="end" font-size="16" fill="#524d45">MERGED ↗</text>'
         for j, line in enumerate(lines):
-            body += f'<text x="35" y="{72 + j * 24}" fill="#e8effa" font-size="18" font-weight="500">{escape(line)}</text>'
+            body += f'<text x="40" y="{67 + j * 26}" fill="#23211e" font-size="22">{escape(line)}</text>'
+        body += '<path d="M40 113H960" stroke="#c6bfb2"/>'
         path = f"assets/contribution-{i + 1}.svg"
         files[path] = frame(body, 122, f"Merged: {repo} #{pr['number']} — {title}")
         links.append(f'<a href="{escape(pr["html_url"], quote=True)}"><img src="{path}" width="100%" alt="{escape(repo + ': ' + title + ' (merged)', quote=True)}" /></a>')
