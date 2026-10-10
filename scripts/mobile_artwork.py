@@ -11,7 +11,7 @@ ASSETS = ROOT / 'assets'
 
 
 def save(name, body, height, title):
-    content = frame(body, height, title).replace('width="1000"', 'width="600"').replace(f'viewBox="0 0 1000 {height}"', f'viewBox="0 0 600 {height}"')
+    content = frame(body, height, title).replace('width="1000"', 'width="600"', 1).replace(f'viewBox="0 0 1000 {height}"', f'viewBox="0 0 600 {height}"')
     (ASSETS / f'{name}-mobile.svg').write_text(content, encoding='utf-8')
 
 
@@ -64,8 +64,12 @@ def main():
         y += 50
     save('toolkit',body,y,'Toolkit and background')
 
+    for name,label,caption in [('projects-heading','SELECTED WORK','Filmory + CodeCollab'),('stack-heading','THE TOOLKIT','Languages, frameworks & infrastructure'),('opensource-heading','IN THE OPEN','Contributing beyond my own repositories'),('activity-heading','BY THE NUMBERS','Public GitHub data · Refreshed daily')]:
+        body = text(24,48,label,35,'font-weight="900"') + text(24,82,caption,21) + '<path d="M24 106H576" stroke="#23211e"/>'
+        save(name,body,122,label)
+
     readme = (ROOT/'README.md').read_text(encoding='utf-8')
-    for name in ['hero','filmory','codecollab','toolkit']:
+    for name in ['hero','filmory','codecollab','toolkit','projects-heading','stack-heading','opensource-heading','activity-heading']:
         if f'srcset="assets/{name}-mobile.svg"' in readme:
             continue
         pattern = rf'(<img src="assets/{name}\.svg"[^>]+/>)'
