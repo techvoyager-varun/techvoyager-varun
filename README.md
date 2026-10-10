@@ -1,6 +1,6 @@
 # Hi, I'm Varun 👋
 
-📍 **Jaipur, India** | 💻 **Full stack development** | 🌱 **Open source & competitive programming**
+💻 **Full stack development** | 🌱 **Open source & competitive programming**
 
 > Building collaborative tools, movie discovery experiences, and practical fixes for open-source projects.
 
