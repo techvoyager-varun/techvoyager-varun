@@ -39,8 +39,8 @@ def main():
     body = text(40, 43, 'VARUN RAWAT / TECHVOYAGER', 17, 'class="mono" letter-spacing="1"')
     body += text(960, 43, 'JAIPUR, INDIA', 16, 'class="mono" text-anchor="end"')
     body += '<path d="M40 63H960" stroke="#23211e"/>'
-    body += text(31, 224, 'VARUN', 174, 'font-weight="900" letter-spacing="-12"')
-    body += text(31, 383, 'RAWAT', 174, 'font-weight="900" letter-spacing="-12"')
+    body += text(31, 224, 'VARUN', 155, 'font-weight="900" letter-spacing="-10"')
+    body += text(31, 383, 'RAWAT', 155, 'font-weight="900" letter-spacing="-10"')
     body += rosette(789, 235, 150)
     body += '<circle cx="789" cy="235" r="57" fill="#f2ede3"/>'
     body += text(789, 246, '</>', 34, 'text-anchor="middle" class="mono" font-weight="700"')

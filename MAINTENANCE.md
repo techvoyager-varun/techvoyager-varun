@@ -2,7 +2,7 @@
 
 The profile README uses original editorial SVG assets stored in `assets/`: warm paper, vermilion, charcoal and ochre; oversized typography; square project spreads. Only Filmory and CodeCollab are featured. The hero has a slowly moving dotted rosette, Filmory has a moving film-reel ring, and CodeCollab has a blinking cursor. Static artwork remains visible with reduced motion. GitHub image caching can delay updates.
 
-Regenerate curated artwork with `python scripts/build_artwork.py`, then refresh public data with `python scripts/refresh_profile.py`.
+Regenerate curated artwork with `python scripts/build_artwork.py` and `python scripts/mobile_artwork.py`, then refresh public data with `python scripts/refresh_profile.py`. Hero, project spreads, toolkit, metrics and contributions have separate mobile layouts selected with HTML `picture` elements below 600px. They retain readable text instead of shrinking the desktop composition.
 
 Design research: [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme), [Creative Profile README](https://github.com/coderjojo/creative-profile-readme), [Caneco](https://github.com/caneco) and [Pouya Saadeghi](https://github.com/saadeghi/saadeghi). These informed the emphasis on individual identity and readable hierarchy; no third-party artwork or template was copied. Project artwork is illustrative, not a screenshot of the applications.
 

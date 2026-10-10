@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="179" viewBox="0 0 600 179" role="img" aria-labelledby="title">
+<title id="title">fix(agenda): show feedback when schedule filters match no sessions</title>
+<rect width="600" height="179" fill="#f2ede3"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="24" y="31" font-size="21" fill="#e6492d" font-weight="700">fossasia/eventyay / #6201</text><text x="24" y="70" font-size="25" fill="#23211e">fix(agenda): show feedback when schedule</text><text x="24" y="102" font-size="25" fill="#23211e">filters match no sessions</text><text x="24" y="157" font-size="18" fill="#524d45">MERGED ↗</text></g></svg>

@@ -71,6 +71,15 @@ def render(user, repos, prs, updated):
     body += '<path d="M40 156H960M40 321H960" stroke="#b3aa9a"/>'
     body += f'<text x="40" y="358" font-size="16" fill="#524d45">Updated {escape(updated)} · Public data · Fork stars excluded</text>'
     files = {"assets/metrics.svg": frame(body, 387, "Public GitHub stats: " + ", ".join(f"{v} {label.lower()}" for v, label in values))}
+    mobile = ''
+    for i, (value, label) in enumerate(values):
+        x = 24 + (i % 2) * 288
+        y = 84 + (i // 2) * 159
+        mobile += f'<text x="{x}" y="{y}" font-size="70" font-weight="900" fill="#e6492d">{value:,}</text>'
+        for j, line in enumerate(textwrap.wrap(label, width=23)):
+            mobile += f'<text x="{x}" y="{y + 34 + j * 24}" font-size="19" fill="#23211e">{line}</text>'
+    mobile += f'<text x="24" y="340" font-size="18" fill="#524d45">Updated {escape(updated)}</text><text x="24" y="369" font-size="18" fill="#524d45">Public data · Fork stars excluded</text>'
+    files['assets/metrics-mobile.svg'] = frame(mobile, 395, 'Public GitHub metrics').replace('width="1000"', 'width="600"').replace('viewBox="0 0 1000 395"', 'viewBox="0 0 600 395"')
     links = []
     for i, pr in enumerate(prs["items"]):
         repo = pr["repository_url"].removeprefix(f"{API}/repos/")
@@ -83,7 +92,15 @@ def render(user, repos, prs, updated):
         body += '<path d="M40 113H960" stroke="#c6bfb2"/>'
         path = f"assets/contribution-{i + 1}.svg"
         files[path] = frame(body, 122, f"Merged: {repo} #{pr['number']} — {title}")
-        links.append(f'<a href="{escape(pr["html_url"], quote=True)}"><img src="{path}" width="100%" alt="{escape(repo + ': ' + title + ' (merged)', quote=True)}" /></a>')
+        mobile_lines = textwrap.wrap(title, width=43, max_lines=4, placeholder='…')
+        mobile = f'<text x="24" y="31" font-size="21" fill="#e6492d" font-weight="700">{escape(repo)} / #{pr["number"]}</text>'
+        for j, line in enumerate(mobile_lines):
+            mobile += f'<text x="24" y="{70 + j * 32}" font-size="25" fill="#23211e">{escape(line)}</text>'
+        height = 115 + len(mobile_lines) * 32
+        mobile += f'<text x="24" y="{height - 22}" font-size="18" fill="#524d45">MERGED ↗</text>'
+        mobile_path = f'assets/contribution-{i + 1}-mobile.svg'
+        files[mobile_path] = frame(mobile, height, title).replace('width="1000"', 'width="600"').replace(f'viewBox="0 0 1000 {height}"', f'viewBox="0 0 600 {height}"')
+        links.append(f'<a href="{escape(pr["html_url"], quote=True)}"><picture><source media="(max-width: 600px)" srcset="{mobile_path}" /><img src="{path}" width="100%" alt="{escape(repo + ': ' + title + ' (merged)', quote=True)}" /></picture></a>')
     if not links:
         links = ["<p align=\"center\">New contributions will appear here after they are merged.</p>"]
     return files, "\n".join(links)
@@ -105,7 +122,7 @@ def main():
     files, contributions = render(user, repos, prs, updated)
     readme = (ROOT / "README.md").read_text(encoding="utf-8")
     readme = replace_section(readme, "CONTRIBUTIONS", contributions)
-    readme = replace_section(readme, "METRICS", '<img src="assets/metrics.svg" width="100%" alt="Public repositories, stars, followers and merged external pull requests. Updated daily from GitHub." />')
+    readme = replace_section(readme, "METRICS", '<picture><source media="(max-width: 600px)" srcset="assets/metrics-mobile.svg" /><img src="assets/metrics.svg" width="100%" alt="Public repositories, stars, followers and merged external pull requests. Updated daily from GitHub." /></picture>')
     for path, content in files.items():
         target = ROOT / path
         target.parent.mkdir(parents=True, exist_ok=True)
