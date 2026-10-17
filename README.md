@@ -36,6 +36,7 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 **12 merged pull requests** in other public repositories.
 
 ### [fossasia/eventyay](https://github.com/fossasia/eventyay)
+### [All Merged Pr in fossasia/eventyay]([https://github.com/fossasia/eventyay](https://app.notion.com/p/FOSSASIA-EVENTYAY-3fcaa05df5d780788740f1fdd26a246f?source=copy_link))
 
 <ul>
 <li><a href="https://github.com/fossasia/eventyay/pull/6352">#6352</a> — fix(reviews): honor median for independent scores</li>
