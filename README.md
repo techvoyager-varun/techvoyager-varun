@@ -33,12 +33,12 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 ## Open Source Contributions
 
 <!-- CONTRIBUTIONS:START -->
-**12 merged pull requests** in other public repositories.
+**13 merged pull requests** in other public repositories.
 
 ### [fossasia/eventyay](https://github.com/fossasia/eventyay)
-### [All Merged Pr in fossasia/eventyay](https://app.notion.com/p/FOSSASIA-EVENTYAY-3fcaa05df5d780788740f1fdd26a246f?source=copy_link)
 
 <ul>
+<li><a href="https://github.com/fossasia/eventyay/pull/6374">#6374</a> — fix(feedback): prevent private replies leaking through the API</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6352">#6352</a> — fix(reviews): honor median for independent scores</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6323">#6323</a> — fix(talks): rename speaker profile pictures to speaker photos</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6222">#6222</a> — fix(cfp): respect question tracks when generating reminders</li>
@@ -112,9 +112,9 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 ## GitHub Activity
 
 <!-- METRICS:START -->
-**20 public repositories** · **0 stars on original repositories** · **9 followers** · **12 merged external PRs**
+**20 public repositories** · **0 stars on original repositories** · **9 followers** · **13 merged external PRs**
 
-<sub>Public GitHub data · Updated 2026-10-17 UTC · Fork stars excluded</sub>
+<sub>Public GitHub data · Updated 2026-10-18 UTC · Fork stars excluded</sub>
 <!-- METRICS:END -->
 
 [Public repositories →](https://github.com/techvoyager-varun?tab=repositories) · [Contribution history →](https://github.com/techvoyager-varun?tab=overview)
