@@ -12,7 +12,7 @@
 - 🛠️ I work across frontend, backend, databases, and real-time systems.
 - 🤝 I contribute to **FOSSASIA / Eventyay**, **activist**, and **TEAMMATES**.
 - 📚 Former **DSA Teaching Assistant** at LNMIIT · January–April 2026.
-- 🧩 Interested in competitive programming, system design, and cloud architecture.
+- 🧩 Competitive programming, system design, and cloud architecture.
 
 ## Projects
 
