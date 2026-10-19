@@ -33,7 +33,16 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 ## Open Source Contributions
 
 <!-- CONTRIBUTIONS:START -->
-**13 merged pull requests** in other public repositories.
+**14 merged pull requests** in other public repositories.
+
+### [activist-org/activist](https://github.com/activist-org/activist)
+
+<ul>
+<li><a href="https://github.com/activist-org/activist/pull/2407">#2407</a> — fix(backend): correct group and flag view schemas</li>
+<li><a href="https://github.com/activist-org/activist/pull/2133">#2133</a> — fix(backend): add authentication enforcement and proper authorization to OrganizationDetailAPIView</li>
+<li><a href="https://github.com/activist-org/activist/pull/2129">#2129</a> — add authentication enforcement and proper authorization to EventDetailAPIView</li>
+<li><a href="https://github.com/activist-org/activist/pull/2128">#2128</a> — fix: correct bugs, typos, and misconfigurations across backend and docs</li>
+</ul>
 
 ### [fossasia/eventyay](https://github.com/fossasia/eventyay)
 
@@ -46,14 +55,6 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 <li><a href="https://github.com/fossasia/eventyay/pull/6201">#6201</a> — fix(agenda): show feedback when schedule filters match no sessions</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6020">#6020</a> — fix(import): keep escaped quotes intact when parsing bank transfer CSV files</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/5751">#5751</a> — fix(schedule): make schedule import version timestamp timezone-aware</li>
-</ul>
-
-### [activist-org/activist](https://github.com/activist-org/activist)
-
-<ul>
-<li><a href="https://github.com/activist-org/activist/pull/2133">#2133</a> — fix(backend): add authentication enforcement and proper authorization to OrganizationDetailAPIView</li>
-<li><a href="https://github.com/activist-org/activist/pull/2129">#2129</a> — add authentication enforcement and proper authorization to EventDetailAPIView</li>
-<li><a href="https://github.com/activist-org/activist/pull/2128">#2128</a> — fix: correct bugs, typos, and misconfigurations across backend and docs</li>
 </ul>
 
 ### [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
@@ -112,9 +113,9 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 ## GitHub Activity
 
 <!-- METRICS:START -->
-**20 public repositories** · **0 stars on original repositories** · **9 followers** · **13 merged external PRs**
+**20 public repositories** · **0 stars on original repositories** · **9 followers** · **14 merged external PRs**
 
-<sub>Public GitHub data · Updated 2026-10-18 UTC · Fork stars excluded</sub>
+<sub>Public GitHub data · Updated 2026-10-19 UTC · Fork stars excluded</sub>
 <!-- METRICS:END -->
 
 [Public repositories →](https://github.com/techvoyager-varun?tab=repositories) · [Contribution history →](https://github.com/techvoyager-varun?tab=overview)
