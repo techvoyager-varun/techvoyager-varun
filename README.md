@@ -10,7 +10,7 @@
 
 - 🎓 B.Tech in Computer Science at **LNMIIT, Jaipur** · 2024–present.
 - 🛠️ I work across frontend, backend, databases, and real-time systems.
-- 🤝 I contribute to **FOSSASIA / Eventyay**, **activist**, and **TEAMMATES**.
+- 🤝 I contribute to **FOSSASIA / Eventyay**.
 - 📚 Former **DSA Teaching Assistant** at LNMIIT · January–April 2026.
 - 🧩 Competitive programming, system design, and cloud architecture.
 
