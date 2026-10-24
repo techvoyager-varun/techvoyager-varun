@@ -33,11 +33,12 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 ## Open Source Contributions
 
 <!-- CONTRIBUTIONS:START -->
-**8 merged pull requests** in other public repositories.
+**15 merged pull requests** in other public repositories.
 
 ### [fossasia/eventyay](https://github.com/fossasia/eventyay)
 
 <ul>
+<li><a href="https://github.com/fossasia/eventyay/pull/6549">#6549</a> — fix(reviews): roll back rejected review settings saves</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6374">#6374</a> — fix(feedback): prevent private replies leaking through the API</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6352">#6352</a> — fix(reviews): honor median for independent scores</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6323">#6323</a> — fix(talks): rename speaker profile pictures to speaker photos</li>
@@ -46,6 +47,22 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 <li><a href="https://github.com/fossasia/eventyay/pull/6201">#6201</a> — fix(agenda): show feedback when schedule filters match no sessions</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6020">#6020</a> — fix(import): keep escaped quotes intact when parsing bank transfer CSV files</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/5751">#5751</a> — fix(schedule): make schedule import version timestamp timezone-aware</li>
+</ul>
+
+### [activist-org/activist](https://github.com/activist-org/activist)
+
+<ul>
+<li><a href="https://github.com/activist-org/activist/pull/2407">#2407</a> — fix(backend): correct group and flag view schemas</li>
+<li><a href="https://github.com/activist-org/activist/pull/2133">#2133</a> — fix(backend): add authentication enforcement and proper authorization to OrganizationDetailAPIView</li>
+<li><a href="https://github.com/activist-org/activist/pull/2129">#2129</a> — add authentication enforcement and proper authorization to EventDetailAPIView</li>
+<li><a href="https://github.com/activist-org/activist/pull/2128">#2128</a> — fix: correct bugs, typos, and misconfigurations across backend and docs</li>
+</ul>
+
+### [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
+
+<ul>
+<li><a href="https://github.com/TEAMMATES/teammates/pull/13864">#13864</a> — [#13853] Migrate midnight adjustment logic to frontend</li>
+<li><a href="https://github.com/TEAMMATES/teammates/pull/13849">#13849</a> — [#13850] Optimize GetNotificationsAction with DB-level unread filtering</li>
 </ul>
 
 <!-- CONTRIBUTIONS:END -->
@@ -97,9 +114,9 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 ## GitHub Activity
 
 <!-- METRICS:START -->
-**21 public repositories** · **0 stars on original repositories** · **9 followers** · **14 merged external PRs**
+**21 public repositories** · **0 stars on original repositories** · **9 followers** · **15 merged external PRs**
 
-<sub>Public GitHub data · Updated 2026-10-23 UTC · Fork stars excluded</sub>
+<sub>Public GitHub data · Updated 2026-10-24 UTC · Fork stars excluded</sub>
 <!-- METRICS:END -->
 
 [Public repositories →](https://github.com/techvoyager-varun?tab=repositories) · [Contribution history →](https://github.com/techvoyager-varun?tab=overview)
