@@ -33,11 +33,13 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 ## Open Source Contributions
 
 <!-- CONTRIBUTIONS:START -->
-**18 merged pull requests** in other public repositories.
+**20 merged pull requests** in other public repositories.
 
 ### [fossasia/eventyay](https://github.com/fossasia/eventyay)
 
 <ul>
+<li><a href="https://github.com/fossasia/eventyay/pull/6608">#6608</a> — fix(cfp): append translated question options safely</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6502">#6502</a> — fix(schedule): resize draft slots when session type changes</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6508">#6508</a> — fix(schedule): reject reserved release version names</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6526">#6526</a> — fix(settings): move header and footer links to Menus &amp; Texts</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6596">#6596</a> — fix(ui): render search and recipient values as text</li>
@@ -117,9 +119,9 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 ## GitHub Activity
 
 <!-- METRICS:START -->
-**21 public repositories** · **0 stars on original repositories** · **9 followers** · **18 merged external PRs**
+**21 public repositories** · **0 stars on original repositories** · **9 followers** · **20 merged external PRs**
 
-<sub>Public GitHub data · Updated 2026-11-15 UTC · Fork stars excluded</sub>
+<sub>Public GitHub data · Updated 2026-11-16 UTC · Fork stars excluded</sub>
 <!-- METRICS:END -->
 
 [Public repositories →](https://github.com/techvoyager-varun?tab=repositories) · [Contribution history →](https://github.com/techvoyager-varun?tab=overview)
