@@ -39,20 +39,20 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 
 <ul>
 <li><a href="https://github.com/fossasia/eventyay/pull/7362">#7362</a> — fix(vouchers): validate duplicate bulk codes without a prefix</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6608">#6608</a> — fix(cfp): append translated question options safely</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6502">#6502</a> — fix(schedule): resize draft slots when session type changes</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6508">#6508</a> — fix(schedule): reject reserved release version names</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6526">#6526</a> — fix(settings): move header and footer links to Menus &amp; Texts</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6596">#6596</a> — fix(ui): render search and recipient values as text</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6549">#6549</a> — fix(reviews): roll back rejected review settings saves</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6374">#6374</a> — fix(feedback): prevent private replies leaking through the API</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6352">#6352</a> — fix(reviews): honor median for independent scores</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6323">#6323</a> — fix(talks): rename speaker profile pictures to speaker photos</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6222">#6222</a> — fix(cfp): respect question tracks when generating reminders</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/6022">#6022</a> — fix(tickets): wrap the event timezone in ZoneInfo where a tzinfo is required</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6201">#6201</a> — fix(agenda): show feedback when schedule filters match no sessions</li>
-<li><a href="https://github.com/fossasia/eventyay/pull/6020">#6020</a> — fix(import): keep escaped quotes intact when parsing bank transfer CSV files</li>
 <li><a href="https://github.com/fossasia/eventyay/pull/5751">#5751</a> — fix(schedule): make schedule import version timestamp timezone-aware</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6549">#6549</a> — fix(reviews): roll back rejected review settings saves</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6596">#6596</a> — fix(ui): render search and recipient values as text</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6020">#6020</a> — fix(import): keep escaped quotes intact when parsing bank transfer CSV files</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6374">#6374</a> — fix(feedback): prevent private replies leaking through the API</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6323">#6323</a> — fix(talks): rename speaker profile pictures to speaker photos</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6201">#6201</a> — fix(agenda): show feedback when schedule filters match no sessions</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6222">#6222</a> — fix(cfp): respect question tracks when generating reminders</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6352">#6352</a> — fix(reviews): honor median for independent scores</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6502">#6502</a> — fix(schedule): resize draft slots when session type changes</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6526">#6526</a> — fix(settings): move header and footer links to Menus &amp; Texts</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6608">#6608</a> — fix(cfp): append translated question options safely</li>
+<li><a href="https://github.com/fossasia/eventyay/pull/6508">#6508</a> — fix(schedule): reject reserved release version names</li>
 </ul>
 
 ### [activist-org/activist](https://github.com/activist-org/activist)
@@ -122,7 +122,7 @@ A collaborative coding workspace with a shared Monaco editor, voice and screen s
 <!-- METRICS:START -->
 **21 public repositories** · **0 stars on original repositories** · **9 followers** · **21 merged external PRs**
 
-<sub>Public GitHub data · Updated 2026-11-24 UTC · Fork stars excluded</sub>
+<sub>Public GitHub data · Updated 2026-11-25 UTC · Fork stars excluded</sub>
 <!-- METRICS:END -->
 
 [Public repositories →](https://github.com/techvoyager-varun?tab=repositories) · [Contribution history →](https://github.com/techvoyager-varun?tab=overview)
